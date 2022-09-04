@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Andres, I'm from Colombia and I'm an Backend Develeper.
+My name is Andres, I'm from Colombia and I'm a Backend Developer.
 
 * Currently finishing my studies at the Universidad de los LLanos as a Systems Engineer.
 
