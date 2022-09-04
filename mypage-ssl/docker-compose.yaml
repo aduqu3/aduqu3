@@ -1,0 +1,7 @@
+www:
+  image: nginx
+  restart: always
+  ports:
+    - "80:80"
+  volumes:
+    - /home/yeoui/develop/volumes/mypage:/usr/share/nginx/html:ro
