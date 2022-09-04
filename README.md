@@ -3,6 +3,7 @@
 My name is Andres, I'm from Colombia and I'm a Backend Developer.
 
 * Currently finishing my studies at the Universidad de los LLanos as a Systems Engineer.
+* I have another [Github](https://github.com/andresduqu3) profile for my University projects
 
 ## Skills
 
