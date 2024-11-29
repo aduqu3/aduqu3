@@ -1,17 +1,18 @@
 ## Hello 👋
 
-My name is Andres, I'm from Colombia and I'm a Backend Developer.
+My name is Andres, I'm from Colombia and I'm a FullStack Developer.
 
-* Currently finishing my studies at the Universidad de los LLanos as a Systems Engineer.
-* I have another [Github](https://github.com/andresduqu3) profile for my University projects
+* Currently i'm working in TabiConnect as a FullStack Developer..
+* I have another [Github](https://github.com/andresduqu3) profile that i used when a was in the University.
 
 ## Skills
 
-* I have been using Linux OS (Debian, Ubuntu, Fedora) in college for 4 years, I have enjoyed learning how to troubleshoot Debian firmware and other utilities on my laptop.
-* I have participated in projects helping to implement Rest Api with Spring Boot and in others with Django Rest
-* Good knowledge of new technologies in general
-* Good management of relational databases, MariaDB, PostgreSQL, Oracle.
 * I like to teach and learn every day, one step at a time.
+* I have been using AWS services like Lambdas, ECS, SES, ECR, RDS and more since 2023.
+* I have experience using django, React.js and Vue.js.
+* I also have experience implementing Rest Apis some project were build with Spring Boot, FastApi, Django Rest, Fiber (Golang), next (nodeJS).
+* Good management of relational databases and no relational database, i have experience using MariaDB, PostgreSQL, Oracle, SQL (RDS), .
+* I have been using Linux OS (Debian, Ubuntu, Fedora) since 2018.
 
 ## Contact
 
